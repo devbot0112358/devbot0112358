@@ -1,4 +1,5 @@
-![alt text](https://assets5.lottiefiles.com/packages/lf20_gnb0jsok.json)
+![animation_500_l4awf9n1](https://user-images.githubusercontent.com/98451917/173220550-20b0dc6a-3c22-4749-8d92-909b45512950.gif)
+
 preview
 <h1 align="center">Hi 👋, I'm devbot0112358</h1>
 <h3 align="center">A Backend Programmer and Tech learner. In Tech industry, We always have to learn with fun. I believe this rule.</h3>
