@@ -1,5 +1,4 @@
-<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
-<lottie-player src="https://assets5.lottiefiles.com/packages/lf20_gnb0jsok.json"  background="transparent"  speed="1"  style="width: 300px; height: 300px;"  loop controls autoplay></lottie-player>
+<iframe src="https://embed.lottiefiles.com/animation/91451"></iframe>
 github profile markdown generator logo
 GitHub Profile README Generator
 Star this repo
