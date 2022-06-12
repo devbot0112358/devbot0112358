@@ -1,13 +1,5 @@
-<script src="https://unpkg.com/@lottiefiles/lottie-player@1.5.7/dist/lottie-player.js"></script>
-<lottie-player
-  autoplay
-  controls
-  loop
-  mode="normal"
-  src="https://assets3.lottiefiles.com/packages/lf20_UJNc2t.json"
-  style="width: 320px"
->
-</lottie-player>
+<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+<lottie-player src="https://assets5.lottiefiles.com/packages/lf20_gnb0jsok.json"  background="transparent"  speed="1"  style="width: 300px; height: 300px;"  loop controls autoplay></lottie-player>
 preview
 <h1 align="center">Hi 👋, I'm devbot0112358</h1>
 <h3 align="center">A Backend Programmer and Tech learner. In Tech industry, We always have to learn with fun. I believe this rule.</h3>
